@@ -1,0 +1,3 @@
+# wala lang
+
+print("hello")
